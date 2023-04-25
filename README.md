@@ -1,5 +1,5 @@
 
-# Restaurant amanagement system using Node js & MongoDb
+# Restaurant management system using NodeJS & MongoDB
 
 <h3> Installation steps: </h3>
 
@@ -8,6 +8,8 @@
 2 -> create database with mongodb by typing [ use restaurant ]
 
 3 -> Fake Data to use application by typing [ node ./seeder/seeder.js ]
+
+4 -> type "npm start" to run the application
 
 <h3>Admin details:</h3>
 
