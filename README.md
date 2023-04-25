@@ -1,5 +1,5 @@
 
-# Restauarant amanagement system using Node js & MongoDb
+# Restaurant amanagement system using Node js & MongoDb
 
 <h3> Installation steps: </h3>
 
